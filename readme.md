@@ -1,4 +1,4 @@
-# Cloud Native Email Newsletter API in Rust
+<!-- # Cloud Native Email Newsletter API in Rust
 
 A robust, production grade backend service built from scratch in Rust, designed to handle user subscriptions, email verification flows, and asynchronous communications. Far beyond a basic CRUD application, this project focuses on high availability, enterprise level testing, type driven design, and comprehensive observability for cloud native environments.
 
@@ -38,4 +38,4 @@ A robust, production grade backend service built from scratch in Rust, designed 
 * **Validation & Parsing**: `validator`, `unicode-segmentation`
 * **Telemetry**: `tracing`, `tracing-actix-web`, `tracing-bunyan-formatter`
 * **Security & Config**: `secrecy`, `config`, `cargo-audit`
-* **Testing & Quality**: `claims`, `quickcheck`, `fake`, `cargo-chef`
+* **Testing & Quality**: `claims`, `quickcheck`, `fake`, `cargo-chef` -->
