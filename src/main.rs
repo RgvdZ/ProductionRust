@@ -1,9 +1,6 @@
-fn main() {
-    first();
-
-}
 
 
-fn first() {
-    println!("Rugvd")
+
+fn main(){
+    println!("Hello World!")
 }
